@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">Where am I?</string>
+    <string name="menuscreen">Main Menu Screen</string>
+    <string name="track">Gps Screen</string>
+    <string name="photo">Take a photo</string>
+   <string name="app_logo_top">Where are you?</string> 
+   <string name="app_logo_bottom">Find out!</string> 
+   <string name="next">Login Settings</string> 
+   <string name="app_version_info">Version 1.0.0\nCopyright © 2012 Sonia Ioannou\nAll Rights Reserved.</string> 
+    <string name="login">Login Settings</string> 
+    <string name="settings_nickname">Nickname:</string> 
+     <string name="settings_email">Email:</string> 
+  <string name="settings_dob">Birth Date:</string> 
+  <string name="settings_dob_not_set">No Date Set</string> 
+  <string name="settings_button_dob">Pick Date</string> 
+  <string name="settings_button_pwd">Set Password</string> 
+  <string name="settings_gender">Gender:</string> 
+  <string name="settings_password">Password:</string> 
+  <string name="settings_password2">Password (again):</string> 
+  <string name="settings_pwd_set">Password Set</string> 
+  <string name="settings_pwd_not_set">No Password Set</string> 
+  <string name="settings_pwd_not_equal">Passwords do not match, please try again.</string> 
+  <string name="settings_pwd_equal">Passwords match.</string> 
+   <string name="next2">Menu</string> 
+   
+   <string
+name="gender_male">Male</string>
+<string
+name="gender_female">Female</string>
+<string
+name="gender_neutral">Prefer Not To Say</string>
+  <string name="set_password_string">Set Password</string>    
+   
+  
+    <string name="lati">Latitude</string> 
+   <string name="longi">Longitude</string> 
+   
+   <string name="desc1"></string>
+   <string name="desc2"></string>
+   <string name="desc3"></string>
+   <string name="desc4"></string>
+   <string name="menu_pos">Check Current Position</string>
+   <string name="menu_cam">Take a photo</string>
+   <string name="menu_address">Location Search</string>
+     <string name="type">Type Address</string>
+      <string name="Find_Location">Find Location</string> 
+   
+   
+   
+   </resources>

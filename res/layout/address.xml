@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is /res/layout/geocode.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+<LinearLayout android:layout_width="fill_parent"
+android:layout_alignParentBottom="true"
+android:layout_height="wrap_content"
+android:orientation="vertical" >
+<EditText 
+
+android:layout_width="fill_parent"
+android:id="@+id/location"
+android:layout_height="wrap_content"
+android:hint="@string/type"/>
+<Button android:id="@+id/geocodeBtn"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:onClick="doClick" 
+android:text="@string/Find_Location"/>
+</LinearLayout>
+<com.google.android.maps.MapView
+android:id="@+id/geoMap" 
+android:clickable="true"
+android:layout_width="fill_parent"
+android:layout_height="320dip"
+android:apiKey="0QD5DkceIEpCHrDxQJOD7HzXhl91sCHzHY5hmvg"
+/>
+</RelativeLayout>
